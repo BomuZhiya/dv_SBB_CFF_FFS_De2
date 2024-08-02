@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1299777640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d789b3321e6be6025767b1d113d6455
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f9507eac199949f92fdd91a8b8ddee3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Texture/ffAlbedoTransparency.png
+- Assets/Texture/ffNormal_Raw.png
+- Assets/Texture/AO.png
+- Assets/Texture/ff_AlbedoTransparency.png
+- Assets/Material/DE2G.mat
+- Assets/Material/DE2922001GLW.mat
+- Assets/Material/DE2922001G.mat
+- Assets/Texture/EE2_299_001_G_ext 621_exterior_defaults_Emission_sRGB.png
+- Assets/Prefab/De2_922_001_G.prefab
+- Assets/Texture/EE2_299_001_G_ext 621_exterior_defaults_AlbedoTransparency_sRGB.png
+- Assets/Texture/EE2_299_001_G_ext 621_exterior_defaults_SpecularSmoothness_sRGB.png
+- Assets/Texture/fSpecularSmoothness_sRGB.png
+- Assets/Texture/EE2_299_001_G_ext 621_exterior_defaults_Normal_Raw.png
+- Assets/Texture/ffEmission_sRGB.png
+- Assets/Prefab/ext_621_exterior_rali.prefab
+- Assets/Material/DE2922001GLR.mat
+- Assets/Texture/EE2_299_001_G_ext 621_exterior_defaults_AmbientOcclusion.png
+- Assets/Mesh/ext_621_exterior_rali.fbx
+- Assets/Mesh/De2_922_001_G.fbx
+Dependencies: []
